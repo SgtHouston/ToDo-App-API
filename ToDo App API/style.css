@@ -1,0 +1,19 @@
+.completed {
+    text-decoration: line-through;
+    color: gray
+}
+
+.incomplete {
+    color:blueviolet
+}
+
+.fieldset {
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+    
+}
+
+.button {
+    color: blueviolet;
+}
